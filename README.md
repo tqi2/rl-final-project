@@ -1,5 +1,7 @@
 # Reinforcement Learning - Deep Q-Learning Network
 Contributer: [Tian Qi](https://github.com/tqi2), [Nan Lin](https://github.com/nanlin7)
+
+
 Solve maze problem using Deep Q Network
 
 ## Overview
