@@ -10,8 +10,6 @@ Black rectangles:       black hole           [reward = -1].
 Yellow bin circle:      final destination    [reward = +1].
 All other states:       grid of maze         [reward = 0].
 
-The RL is in RL_brain.py.
-
 """
 import numpy as np
 import time
