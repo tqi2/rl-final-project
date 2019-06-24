@@ -2,7 +2,7 @@
 Contributer: [Tian Qi](https://github.com/tqi2), [Nan Lin](https://github.com/nanlin7)
 
 
-Solve maze problem using Deep Q Network
+Solve maze problem using Deep Q Network. Here is the [Final Project Report](final-report.pdf)
 
 ## Overview
 
