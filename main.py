@@ -49,6 +49,7 @@ def run_maze():
 if __name__ == "__main__":
     # maze game
     env = Maze()
+    
 #    RL = DeepQNetwork(env.n_actions, env.n_features,
 #                      learning_rate=0.01,
 #                      reward_decay=0.9,
@@ -56,7 +57,8 @@ if __name__ == "__main__":
 #                      replace_target_iter=200,
 #                      memory_size=2000
 #                      )
-    # param tuning
+    
+    # param tuning by hand, best version for now
     RL = DeepQNetwork(env.n_actions, env.n_features,
                   learning_rate=0.005,
                   reward_decay=0.8,
